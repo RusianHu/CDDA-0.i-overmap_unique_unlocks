@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "overmap_unique_unlocks",
+    "name": "0.i 大地图唯一地点解锁",
+    "authors": [ "RusianHu" ],
+    "maintainers": [ "RusianHu" ],
+    "description": "将部分原本全局唯一的大地图特殊地点改为每张大地图唯一，包括：Hub 01、难民中心、无家者营地、LIXA 和 Exodii 基地。",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
