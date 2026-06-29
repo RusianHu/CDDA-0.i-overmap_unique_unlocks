@@ -13,6 +13,9 @@
 - 无家者营地
 - LIXA
 - Exodii 基地
+- 监狱隐藏实验室（Prison Hidden Lab）
+- 加油站地下碉堡（加油站 → 碉堡（入口）/碉堡）
+- 废品商（Occupied Scrap Yard / Scrapper）
 
 ## 使用场景
 
@@ -31,4 +34,3 @@
 - 模组 ID 保持为 `overmap_unique_unlocks`，请不要随意修改，否则已有世界的模组引用可能失效。
 - 对已经生成过的大地图区域，本模组通常不会 retroactively 重刷既有地形；效果主要体现在新的世界或尚未生成的区域。
 - 如果更新模组后遇到 `stale game data` 一类缓存问题，可以尝试清理游戏目录下的 `cache/` 和 `data/cache/` 后再进游戏。
-
